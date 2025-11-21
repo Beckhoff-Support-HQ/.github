@@ -1,12 +1,32 @@
-## Hi there 👋
+# Repos:
 
-<!--
+## Connectivity:
+[Modbus TCP](https://github.com/Beckhoff-Support-HQ/TF6250_Modbus_TCP)
 
-**Here are some ideas to get you started:**
+[Modbus RTU](https://github.com/Beckhoff-Support-HQ/TF6255-Modbus-RTU)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Automation Interface:
+
+[TcHMI AI Sample](https://github.com/Beckhoff-Support-HQ/TcHmi_AI_Example)
+
+[AI VisualStudio Template](https://github.com/Beckhoff-Support-HQ/TwinCAT-AI-Template)
+
+## I/O:
+
+[EL6761](https://github.com/Beckhoff-Support-HQ/EL6761_Sample)
+
+[EL6695](https://github.com/Beckhoff-Support-HQ/EL6695-acyclic-ads-sample)
+
+## Other:
+
+[Uninstall TcPkg Script](https://github.com/Beckhoff-Support-HQ/UninstallPackagesWithoutTcPkg)
+
+[Hotline Tool](https://github.com/Beckhoff-Support-HQ/hotline-tool)
+
+[Hotline Outlook Plugin](https://github.com/Beckhoff-Support-HQ/Hotline-Outlook-Plugin)
+
+[ADS Utilities](https://github.com/Beckhoff-Support-HQ/TwinCAT-ADS-Utilities)
+
+[TcPkg Version Getter](https://github.com/Beckhoff-Support-HQ/TcPkg-Version-Getter)
+
+[TF4110 Samples](https://github.com/Beckhoff-Support-HQ/TF4110-Temp-Controller)
