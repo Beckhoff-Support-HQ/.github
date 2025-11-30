@@ -25,6 +25,8 @@
 
 [Hotline Outlook Plugin](https://github.com/Beckhoff-Support-HQ/Hotline-Outlook-Plugin)
 
+[Cases Extension](https://github.com/Beckhoff-Support-HQ/Cases_Extension)
+
 [ADS Utilities](https://github.com/Beckhoff-Support-HQ/TwinCAT-ADS-Utilities)
 
 [TcPkg Version Getter](https://github.com/Beckhoff-Support-HQ/TcPkg-Version-Getter)
