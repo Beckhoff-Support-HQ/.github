@@ -25,6 +25,8 @@
 
 [Hotline Outlook Plugin](https://github.com/Beckhoff-Support-HQ/Hotline-Outlook-Plugin)
 
+[pyApt](https://github.com/Beckhoff-Support-HQ/pyApt)
+
 [Cases Extension](https://github.com/Beckhoff-Support-HQ/Cases_Extension)
 
 [ADS Utilities](https://github.com/Beckhoff-Support-HQ/TwinCAT-ADS-Utilities)
