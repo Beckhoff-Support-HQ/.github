@@ -13,6 +13,8 @@
 
 ## I/O:
 
+[EL34xx](https://github.com/Beckhoff-Support-HQ/EL34xx_Sample)
+
 [EL6761](https://github.com/Beckhoff-Support-HQ/EL6761_Sample)
 
 [EL6695](https://github.com/Beckhoff-Support-HQ/EL6695-acyclic-ads-sample)
