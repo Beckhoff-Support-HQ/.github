@@ -21,6 +21,8 @@
 
 ## Other:
 
+[Support Tool](https://github.com/Beckhoff-Support-HQ/Support-Tool)
+
 [Uninstall TcPkg Script](https://github.com/Beckhoff-Support-HQ/UninstallPackagesWithoutTcPkg)
 
 [Hotline Tool](https://github.com/Beckhoff-Support-HQ/hotline-tool)
